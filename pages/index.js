@@ -1,5 +1,10 @@
 function Home() {
-  return <h1>InfoSec Hub - Página Em Construção</h1>;
+  return (
+    <p>
+      Aqui será criado um espaço onde amantes de segurança da informação poderão
+      compartilhar conhecimentos!
+    </p>
+  );
 }
 
 export default Home;
